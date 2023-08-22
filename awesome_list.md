@@ -22,4 +22,20 @@
 
 ### Profiling
 
-* https://www.speedscope.app/ - interactive flamegraph visualizer
+* https://www.speedscope.app/ - interactive flame-graph visualizer
+
+### Testing
+
+* https://vcrpy.readthedocs.io/en/latest/ - record HTTP requests
+
+### AST
+
+* https://github.com/Instagram/LibCST - syntax tree parser and serializer library for Python. It can be used for modifying code.
+
+### Other
+
+* https://www.schemastore.org/json/ - list of JSON schemas for various formats
+
+## Reading
+
+* https://readwise.io/ - ebook highlights manager
