@@ -13,6 +13,7 @@
 ## DB
 
 * https://pgexercises.com/ - PostgreSQL Exercises, from easy to hard
+* https://explain.depesz.com/ - psql readable explain
 
 ## Game development
 
