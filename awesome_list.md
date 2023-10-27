@@ -14,6 +14,7 @@
 
 * https://pgexercises.com/ - PostgreSQL Exercises, from easy to hard
 * https://explain.depesz.com/ - psql readable explain
+* https://extendsclass.com/postgresql-online.html - psql online (also this site has many other tools)
 
 ## Game development
 
