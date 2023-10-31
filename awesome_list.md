@@ -43,3 +43,5 @@
 ## Reading
 
 * https://readwise.io/ - ebook highlights manager
+* https://clippings.io/ - kindle highlights exporter and manager
+* https://omnivore.app/ - app like pocket - save articles, pdf for later reading. Has nice TTS
