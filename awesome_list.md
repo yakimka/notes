@@ -45,3 +45,16 @@
 * https://readwise.io/ - ebook highlights manager
 * https://clippings.io/ - kindle highlights exporter and manager
 * https://omnivore.app/ - app like pocket - save articles, pdf for later reading. Has nice TTS
+
+## English
+
+* https://youglish.com/ - learn english when watching youtube videous
+
+## AI
+
+* https://www.phind.com/ - pair programmer AI
+* https://www.perplexity.ai/ - something like chatgpt
+
+## Algo
+
+* https://frontendmasters.com/courses/algorithms/ - "The Last Algorithms Course You'll Need" by ThePrimeagen 
