@@ -1,60 +1,42 @@
-# Awesome list (sort of)
+# Awesome List 🚀
 
-## Sketchboards
+## 🎨 Sketchboards
+* [Diagrams.net](https://app.diagrams.net/) - Formerly known as draw.io
+* [Sketchboard](https://sketchboard.me/)
+* [Excalidraw](https://excalidraw.com/) - Cartoon-style diagrams app (data stored locally in browser)
 
-* https://app.diagrams.net/ (former draw.io)
-* https://sketchboard.me/
-* https://excalidraw.com/ - nice cartoon-style diagrams app (data stored locally in browser)
+## 🛠 Tools for Developers
+* [IT-Tools](https://it-tools.tech/) - A suite of tools for developers
 
-## Tools
+## 📊 Database Tools & Resources
+* [PG Exercises](https://pgexercises.com/) - PostgreSQL exercises ranging from easy to hard
+* [Depesz Explain](https://explain.depesz.com/) - Makes PostgreSQL explains more readable
+* [ExtendsClass](https://extendsclass.com/postgresql-online.html) - PostgreSQL online & other tools
 
-* https://it-tools.tech/ - set of tools for developers
+## 🎮 Game Development
+* [Bluezone Corporation](https://www.bluezone-corporation.com/) - Free sound effects for games & video editing
 
-## DB
-
-* https://pgexercises.com/ - PostgreSQL Exercises, from easy to hard
-* https://explain.depesz.com/ - psql readable explain
-* https://extendsclass.com/postgresql-online.html - psql online (also this site has many other tools)
-
-## Game development
-
-* https://www.bluezone-corporation.com/ - free sound effects for games and video editing
-
-## Development
-
-### Profiling
-
-* https://www.speedscope.app/ - interactive flame-graph visualizer
-
-### Other
-
-* https://www.schemastore.org/json/ - list of JSON schemas for various formats
-
-### Libs
-
-* https://github.com/kevin1024/vcrpy - record HTTP requests
-* https://github.com/Instagram/LibCST - syntax tree parser and serializer library for Python. It can be used for modifying code.
-* https://github.com/jd/tenacity - retrying library that utilizes loops and context managers ([nice article](https://www.bitecode.dev/p/python-cocktail-mix-a-context-manager)
+## 💻 Development
+* [Frontend Masters](https://frontendmasters.com/courses/algorithms/) - "The Last Algorithms Course You'll Need" by ThePrimeagen
+* [Speedscope](https://www.speedscope.app/) - Interactive flame-graph visualizer
+* [Schema Store](https://www.schemastore.org/json/) - JSON schemas for various formats
+* [Awesome Architecture](https://awesome-architecture.com/) - Comprehensive list of architecture-related materials
+* [VCRpy](https://github.com/kevin1024/vcrpy) - Record HTTP requests
+* [LibCST](https://github.com/Instagram/LibCST) - Syntax tree parser & serializer library for Python, useful for code modification
+* [Tenacity](https://github.com/jd/tenacity) - Retrying library that utilizes loops and context managers. [Learn more](https://www.bitecode.dev/p/python-cocktail-mix-a-context-manager)
 * Some weird shit:
     * https://htmx.org/
     * https://unpoly.com/
     * https://alpinejs.dev/
 
-## Reading
+## 📖 Reading Tools
+* [Readwise](https://readwise.io/) - E-book highlights manager
+* [Clippings.io](https://clippings.io/) - Kindle highlights exporter and manager
+* [Omnivore](https://omnivore.app/) - Save articles, PDFs for later reading with TTS feature
 
-* https://readwise.io/ - ebook highlights manager
-* https://clippings.io/ - kindle highlights exporter and manager
-* https://omnivore.app/ - app like pocket - save articles, pdf for later reading. Has nice TTS
+## 🎤 English Learning
+* [YouGlish](https://youglish.com/) - Learn English by watching YouTube videos
 
-## English
-
-* https://youglish.com/ - learn english when watching youtube videous
-
-## AI
-
-* https://www.phind.com/ - pair programmer AI
-* https://www.perplexity.ai/ - something like chatgpt
-
-## Algo
-
-* https://frontendmasters.com/courses/algorithms/ - "The Last Algorithms Course You'll Need" by ThePrimeagen 
+## 🤖 AI & Chatbots
+* [Phind](https://www.phind.com/) - AI-powered pair programmer
+* [Perplexity](https://www.perplexity.ai/) - Similar to ChatGPT
