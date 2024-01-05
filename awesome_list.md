@@ -25,6 +25,7 @@
 * [LibCST](https://github.com/Instagram/LibCST) - Syntax tree parser & serializer library for Python, useful for code modification
 * [Tenacity](https://github.com/jd/tenacity) - Retrying library that utilizes loops and context managers. [Learn more](https://www.bitecode.dev/p/python-cocktail-mix-a-context-manager)
 * [Makefile Tutorial](https://makefiletutorial.com/) - Makefile guide
+* [Exercism](https://exercism.org) - platform for learning programming languages. It's not ideal for in-depth learning, but it's a good choice for those who want to get a basic understanding or compare how programming concepts are implemented across various languages.
 * Some weird shit:
     * https://htmx.org/
     * https://unpoly.com/
