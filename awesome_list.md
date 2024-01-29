@@ -42,3 +42,6 @@
 ## 🤖 AI & Chatbots
 * [Phind](https://www.phind.com/) - AI-powered pair programmer
 * [Perplexity](https://www.perplexity.ai/) - Similar to ChatGPT
+
+## Other
+* [Mouse Rate Checker](https://zowie.benq.com/th-th/support/mouse-rate-checker.html)
