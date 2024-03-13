@@ -7,6 +7,7 @@
 
 ## 🛠 Tools for Developers
 * [IT-Tools](https://it-tools.tech/) - A suite of tools for developers
+* [dotnetfiddle.net](https://dotnetfiddle.net/) - C# sandbox
 
 ## 📊 Database Tools & Resources
 * [PG Exercises](https://pgexercises.com/) - PostgreSQL exercises ranging from easy to hard
