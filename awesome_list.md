@@ -31,6 +31,7 @@
     * https://htmx.org/
     * https://unpoly.com/
     * https://alpinejs.dev/
+ * [Green Tree Snakes - the missing Python AST docs](https://greentreesnakes.readthedocs.io/en/latest/) - Python AST documentation
 
 ## 📖 Reading Tools
 * [Readwise](https://readwise.io/) - E-book highlights manager
