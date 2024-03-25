@@ -13,6 +13,7 @@
 * [PG Exercises](https://pgexercises.com/) - PostgreSQL exercises ranging from easy to hard
 * [Depesz Explain](https://explain.depesz.com/) - Makes PostgreSQL explains more readable
 * [ExtendsClass](https://extendsclass.com/postgresql-online.html) - PostgreSQL online & other tools
+* [Postgres HowTo articles](https://gitlab.com/postgres-ai/postgresql-consulting/postgres-howtos)
 
 ## 🎮 Game Development
 * [Bluezone Corporation](https://www.bluezone-corporation.com/) - Free sound effects for games & video editing
