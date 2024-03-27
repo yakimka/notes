@@ -48,3 +48,4 @@
 
 ## Other
 * [Mouse Rate Checker](https://zowie.benq.com/th-th/support/mouse-rate-checker.html)
+* [Systemd by Example](https://systemd-by-example.com/)
