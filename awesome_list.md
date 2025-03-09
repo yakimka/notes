@@ -33,6 +33,8 @@
     * https://unpoly.com/
     * https://alpinejs.dev/
  * [Green Tree Snakes - the missing Python AST docs](https://greentreesnakes.readthedocs.io/en/latest/) - Python AST documentation
+ * [Awesome Python Web Frameworks](https://github.com/sfermigier/awesome-python-web-frameworks)
+ * [Awesome Http Benchmark](https://github.com/denji/awesome-http-benchmark)
 
 ## 📖 Reading Tools
 * [Readwise](https://readwise.io/) - E-book highlights manager
