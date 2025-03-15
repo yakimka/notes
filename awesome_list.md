@@ -17,6 +17,7 @@
 
 ## 🎮 Game Development
 * [Bluezone Corporation](https://www.bluezone-corporation.com/) - Free sound effects for games & video editing
+* [2DGD_F0TH](https://github.com/2DGD-F0TH/2DGD_F0TH) - A compendium of the community knowledge on game design and development 
 
 ## 💻 Development
 * [Frontend Masters](https://frontendmasters.com/courses/algorithms/) - "The Last Algorithms Course You'll Need" by ThePrimeagen
@@ -35,6 +36,7 @@
  * [Green Tree Snakes - the missing Python AST docs](https://greentreesnakes.readthedocs.io/en/latest/) - Python AST documentation
  * [Awesome Python Web Frameworks](https://github.com/sfermigier/awesome-python-web-frameworks)
  * [Awesome Http Benchmark](https://github.com/denji/awesome-http-benchmark)
+ * [Competitive Programming Book](https://cpbook.net/details?cp=3)
 
 ## 📖 Reading Tools
 * [Readwise](https://readwise.io/) - E-book highlights manager

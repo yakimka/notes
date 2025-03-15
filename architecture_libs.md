@@ -1,0 +1,3 @@
+- [PyTestArch](https://github.com/zyskarch/pytestarch) - create import rules for enforcing loose coupling in your Python project.
+- [tach](https://github.com/gauge-sh/tach) - tool to visualize + enforce dependencies, using modular architecture
+- [python-polylith](https://github.com/DavidVujic/python-polylith) - Python tools for the [Polylith](https://polylith.gitbook.io/) Architecture

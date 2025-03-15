@@ -14,3 +14,10 @@
 - [8 Reasons Why WhatsApp Was Able to Support 50 Billion Messages a Day With Only 32 Engineers](https://newsletter.systemdesign.one/p/whatsapp-engineering)
 - [Chasing memory spikes and leaks in python](https://medium.com/metabob/chasing-memory-spikes-and-leaks-in-python-172ae99290d3)
 - [ClickHouse — fast, deduplicated reads](https://medium.com/@jgrodman/clickhouse-fast-deduplicated-reads-de2026a4e0ad)
+- [SQLite on Rails: The how and why of optimal performance](https://fractaledmind.github.io/2024/04/15/sqlite-on-rails-the-how-and-why-of-optimal-performance/)
+- [Big Endian's Guide to SQLite Storage](https://blog.jabid.in/2024/11/24/sqlite.html)
+- [Everyone gets bidirectional BFS wrong](https://zdimension.fr/everyone-gets-bidirectional-bfs-wrong/)
+- [7 Databases in 7 Weeks for 2025](https://matt.blwt.io/post/7-databases-in-7-weeks-for-2025/)
+- [Performance-Aware Programming Series](https://www.computerenhance.com/p/table-of-contents)
+- [Рання історія Smalltalk](https://kant2002.github.io/EarlyHistoryOfSmalltalk/)
+- 

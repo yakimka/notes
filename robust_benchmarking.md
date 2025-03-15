@@ -1,0 +1,4 @@
+- [Robust benchmarking in noisy environments](https://arxiv.org/pdf/1608.04295)
+- [Practical Benchmarking: How to Detect Performance Changes in Noisy Results](https://www.infoq.com/presentations/noise-tips/)
+- [CI for performance: Reliable benchmarking in noisy environments](https://pythonspeed.com/articles/consistent-benchmarking-in-ci/)
+- [What is Continuous Benchmarking?](https://bencher.dev/docs/explanation/continuous-benchmarking/)
