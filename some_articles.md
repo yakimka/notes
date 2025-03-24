@@ -20,4 +20,4 @@
 - [7 Databases in 7 Weeks for 2025](https://matt.blwt.io/post/7-databases-in-7-weeks-for-2025/)
 - [Performance-Aware Programming Series](https://www.computerenhance.com/p/table-of-contents)
 - [Рання історія Smalltalk](https://kant2002.github.io/EarlyHistoryOfSmalltalk/)
-- 
+- [Mastering Database Connection Pooling](https://www.architecture-weekly.com/p/architecture-weekly-189-mastering)
