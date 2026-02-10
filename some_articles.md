@@ -22,3 +22,4 @@
 - [Рання історія Smalltalk](https://kant2002.github.io/EarlyHistoryOfSmalltalk/)
 - [Mastering Database Connection Pooling](https://www.architecture-weekly.com/p/architecture-weekly-189-mastering)
 - [How to profile a FastAPI asynchronous request](https://blog.balthazar-rouberol.com/how-to-profile-a-fastapi-asynchronous-request)
+- [Elegantly activating a virtualenv in a Dockerfile](https://pythonspeed.com/articles/activate-virtualenv-dockerfile/)
